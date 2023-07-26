@@ -39,3 +39,4 @@ spec:
           awsElasticBlockStore:
             volumeID: EBSVolumeID
             fsType: 
+            email:
